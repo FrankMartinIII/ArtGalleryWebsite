@@ -1,0 +1,332 @@
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\appsettings.json
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.exe
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.deps.json
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.runtimeconfig.json
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.runtimeconfig.dev.json
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ref\ProjectMartinFrank.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.Views.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.Views.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.csprojAssemblyReference.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.AssemblyInfoInputs.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.AssemblyInfo.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.csproj.CoreCompileInputs.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorAssemblyInfo.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorAssemblyInfo.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\staticwebassets\ProjectMartinFrank.StaticWebAssets.Manifest.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\staticwebassets\ProjectMartinFrank.StaticWebAssets.xml
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\scopedcss\bundle\ProjectMartinFrank.styles.css
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.TagHelpers.input.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.TagHelpers.output.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorCoreGenerate.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorTargetAssemblyInfo.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorTargetAssemblyInfo.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.Views.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.csproj.CopyComplete
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ref\ProjectMartinFrank.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.pdb
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.genruntimeconfig.cache
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Create.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Delete.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Details.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Edit.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Index.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Create.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Delete.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Details.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Edit.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Index.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Create.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Delete.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Details.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Edit.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Index.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Views\ArtGallery.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\StoredProcedures\ArtistList.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\StoredProcedures\ArtistFavArt.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\StoredProcedures\UserFavArt.cshtml.g.cs
+C:\Users\Hofstra\source\repos\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\colorpage.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\appsettings.json
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.exe
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.deps.json
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.runtimeconfig.json
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.runtimeconfig.dev.json
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ref\ProjectMartinFrank.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.Views.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ProjectMartinFrank.Views.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Humanizer.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.csproj.AssemblyReference.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.AssemblyInfoInputs.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.AssemblyInfo.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.csproj.CoreCompileInputs.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorAssemblyInfo.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorAssemblyInfo.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\staticwebassets\ProjectMartinFrank.StaticWebAssets.Manifest.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\staticwebassets\ProjectMartinFrank.StaticWebAssets.xml
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\scopedcss\bundle\ProjectMartinFrank.styles.css
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.TagHelpers.input.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.TagHelpers.output.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorCoreGenerate.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\colorpage.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\StoredProcedures\ArtistFavArt.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\StoredProcedures\ArtistList.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\StoredProcedures\UserFavArt.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Create.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Delete.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Details.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Edit.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArtist\Index.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Create.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Delete.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Details.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Edit.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblArt\Index.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Create.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Delete.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Details.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Edit.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\tblUser\Index.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\Views\ArtGallery.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorTargetAssemblyInfo.cache
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.RazorTargetAssemblyInfo.cs
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.Views.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.csproj.CopyComplete
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ref\ProjectMartinFrank.dll
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.pdb
+C:\Users\secre\Documents\csc 185\ProjectMartinFrank\ProjectMartinFrank\ProjectMartinFrank\obj\Debug\net5.0\ProjectMartinFrank.genruntimeconfig.cache

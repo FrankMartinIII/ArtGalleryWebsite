@@ -1,0 +1,55 @@
+﻿@page
+@model ProjectMartinFrank.Pages.Views.ArtGalleryModel
+@{
+    ViewData["Title"] = "Gallery";
+}
+
+<table id="galTable" class="artTable table">
+    <thread>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VwArtandArtist[0].ArtistFname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VwArtandArtist[0].ArtistLname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VwArtandArtist[0].ArtTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VwArtandArtist[0].ArtType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VwArtandArtist[0].ArtPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VwArtandArtist[0].ArtImg)
+            </th>
+        </tr>
+    </thread>
+    <tbody>
+        @foreach(var item in Model.VwArtandArtist)
+         {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtistFname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtistLname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtPrice)
+            </td>
+            <td>
+                <img class="galImage" src = "~/img/@Html.DisplayFor(modelItem => item.ArtImg)" />
+            </td>
+        </tr>
+         }
+    </tbody>
+</table>

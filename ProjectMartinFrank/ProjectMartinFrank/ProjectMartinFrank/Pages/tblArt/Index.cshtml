@@ -1,0 +1,66 @@
+﻿@page
+@model ProjectMartinFrank.Pages.tblArt.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TblArt[0].ArtTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TblArt[0].ArtDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TblArt[0].ArtType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TblArt[0].ArtPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TblArt[0].ArtImg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TblArt[0].Artist)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.TblArt) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArtImg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Artist.ArtistId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ArtId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ArtId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ArtId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

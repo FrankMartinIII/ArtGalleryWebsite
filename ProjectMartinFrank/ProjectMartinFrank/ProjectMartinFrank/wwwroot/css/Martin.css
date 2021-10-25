@@ -1,0 +1,27 @@
+﻿body {
+    background-color:bisque;
+}
+
+.galImage{
+    width: 70%;
+}
+
+.artTable{
+    width: 100%;
+}
+
+.chartclass{
+    border: solid blue 6px;
+    width: 64.3%;
+    margin-left:15%;
+}
+
+.rndm {
+    color: mediumspringgreen;
+}
+
+.bpag1 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 0%;
+}

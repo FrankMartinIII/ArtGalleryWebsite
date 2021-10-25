@@ -1,0 +1,43 @@
+﻿@page
+@model ProjectMartinFrank.Pages.StoredProcedures.UserFavArtModel
+@{
+    ViewData["Title"] = "Favorite Mediums Among Users";
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="~/js/drawcharts.js"></script>
+    <script>google.charts.setOnLoadCallback(drawPieChart);</script>
+}
+<h1>User's Favorite Medium</h1>
+
+<table id="galTable" class="artTable table">
+    <thread>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.spUserFavArts[0].userFavTypeArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.spUserFavArts[0].userFavTypeArt)
+            </th>
+        </tr>
+    </thread>
+    <tbody>
+        @foreach (var item in Model.spUserFavArts)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.userFavTypeArt)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CountFavoriteArtTypeUsers)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div id="generateData" style="display: none;">
+    @foreach (var item in Model.spUserFavArts)
+    {
+        @string.Concat(" ,['", item.userFavTypeArt, " ', ", item.CountFavoriteArtTypeUsers, "]")
+    }
+</div>
+<div id="pieArea" class="chartclass"></div>
